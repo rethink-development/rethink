@@ -35,7 +35,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone (link)
+   git clone git@github.com:rethink-development/rethink.git
    cd rethink
    ```
 
@@ -178,4 +178,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*For any issues or feature requests, please open an [issue](link) on GitHub.*
+*For any issues or feature requests, please open an [issue](https://github.com/rethink-development/rethink/issues) on GitHub.*
